@@ -1,0 +1,14 @@
+{
+    "ios": {
+        "appId": 30178,
+        "appKey": "eScskAtNSstikH5GjJMF6uZQ"
+    },
+    "android": {
+        "appId": 29413,
+        "appKey": "vdZWPXU6eyaPE6Avk96-YvwK"
+    },
+    "harmony": {
+        "appId": 29140,
+        "appKey": "JLklGflGIRbY-cMebjQwm1J1"
+    }
+}
